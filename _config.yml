@@ -1,0 +1,28 @@
+name: pcblues
+favicon: null
+layout_spectrum: 0.23745758854784071
+typography_spectrum: 0.4734766383189708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6386588409077376
+  lightness: 0.10904583404771984
+  saturation: 0.15441416413523257
+  rhythmicContrast: 0.9284729489590973
+purpose: []
